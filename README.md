@@ -6,6 +6,8 @@ This project was built to demonstrate and visually compare different approaches 
 
 !
 
+---
+
 ## Features
 
 * **Complex Maze Generation:** Uses **Kruskal's Algorithm** (with an "imperfection" step) to generate complex mazes with multiple possible paths and loops, not just a single solution.
@@ -21,6 +23,8 @@ This project was built to demonstrate and visually compare different approaches 
     * A pulsing animation on the final, shortest path.
 * **Customizable Mazes:** Easily change the width and height of the maze to generate new challenges.
 
+---
+
 ## How to Use
 
 1.  Open the `maze_solver.html` file in any modern web browser.
@@ -28,6 +32,8 @@ This project was built to demonstrate and visually compare different approaches 
 3.  Click **"Generate Maze"** to create a new, random maze.
 4.  Select an algorithm from the **"Algorithm"** dropdown.
 5.  Click **"Solve Maze"** to watch the selected algorithm find the solution.
+
+---
 
 ## Technologies Used
 
@@ -50,11 +56,13 @@ Contributions are welcome! If you have suggestions for new features, improvement
 
 Please make sure your code is well-commented and follows the existing style.
 
+---
+
 ## License
 
 This project is licensed under the **MIT License**.
 
-See the `LICENSE.md` file for more details. (You will need to create a `LICENSE.md` file in your repository, for example, by choosing the MIT License template when on GitHub).
+See the `LICENSE.md` file for more details.
 
 ---
 
@@ -64,3 +72,6 @@ This project was created by **[Kunal Gupta]**.
 
 * **GitHub:** `github.com/Commander-Kunal`
 * **LinkedIn:** `linkedin.com/in/YourProfile`
+* MCA Data Science Student at University Institute of Computing (UIC), Chandigarh University, Mohali, Punjab – 140301
+* **UID:** 25MCD10013
+* **Semester/Year:** 1/1
