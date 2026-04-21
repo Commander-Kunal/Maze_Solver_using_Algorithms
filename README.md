@@ -74,4 +74,4 @@ This project was created by **[Kunal Gupta]**.
 * **LinkedIn:** `linkedin.com/in/commander-kunal`
 * MCA Data Science Student at University Institute of Computing (UIC), Chandigarh University, Mohali, Punjab – 140301
 * **UID:** 25MCD10013
-* **Semester/Year:** 1/1
+* **Semester/Year:** 2/1
